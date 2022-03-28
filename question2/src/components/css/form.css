@@ -1,0 +1,52 @@
+.frame {
+  margin-top: 10%;
+  width: 604px;
+  height: 620px;
+  background-color: #1e7cd8;
+}
+
+.font1 {
+  font-size: 18px;
+  color: #d0e4f7;
+}
+
+.margin1 {
+  margin-left: 30px;
+  margin-top: 20px;
+  width: 90%;
+}
+
+.margin2 {
+  margin-left: 30px;
+  margin-top: 9px;
+  width: 90%;
+}
+
+.input1 {
+  background-color: #1e7cd8;
+  height: 50px;
+  color: #edf5fc;
+}
+
+.margin3 {
+  margin-left: 30px;
+  margin-top: 30px;
+  width: 90%;
+}
+
+.margin4 {
+  margin-left: 30px;
+  margin-top: 50px;
+  width: 90%;
+}
+
+.datePick {
+  background-color: #1e7cd8;
+  height: 52px;
+}
+
+.input2 {
+  background-color: #1e7cd8;
+
+  color: #edf5fc;
+}
